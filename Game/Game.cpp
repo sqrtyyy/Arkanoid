@@ -14,7 +14,6 @@ Game::Game(const string& background_texture_source) {
 }
 /*
  * \brief Creating the blocks
- *
  */
 void Game::init_blocks() {
     srand(time(nullptr));
