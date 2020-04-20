@@ -1,0 +1,2 @@
+# Arkanoid
+Arkanoid is a 1986 block breaker arcade game developed and published by Taito. In North America, it was published by Romstar. Controlling a paddle-like craft known as the Vaus, the player is tasked with clearing each formation of colorful blocks, accomplished by deflecting a ball towards it without letting it leave the playfield. Some blocks contain power-ups that have various effects on the player, such as increasing the length of the Vaus, creating several additional balls, or turning the Vaus into a laser cannon.
